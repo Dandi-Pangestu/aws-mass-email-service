@@ -1,4 +1,4 @@
-# AWS Mass Email Service
+# Scaleable AWS Mass Email Service
 
 ## Architecture
 
