@@ -1,3 +1,6 @@
 .idea
 /extract-email-function/bootstrap
 /extract-email-function/extract-email-function.zip
+/send-email-function/bootstrap
+/send-email-function/send-email-function.zip
+.DS_Store
